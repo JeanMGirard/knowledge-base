@@ -1,60 +1,17 @@
-# Awesome [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome
 
-A curated list of awesome stuffs
 
-## Index
-
-- [Awesome-Lists](#Other-Awesome-Lists)
-- [Another Section](#another-section)
-
-## Contents
-**Languages**
-- [C#](#Python)
-- [Js](#Python)
-- [NodeJs](#Python)
-- [Go](#Python)
-- [Powershell](#Python)
-- [CSS / Less / Sass](#Python)
-- [Python](#Python)
-- [PHP](#Python)
-- [TypeScript](#Python)
-- [Python](#Python)
-
----
-items:
- - robbyrussell/oh-my-zsh
- - ggreer/the_silver_searcher
- - arc90/git-sweep
- - bhollis/jsonview
- - ShareX/ShareX
- - sindresorhus/quick-look-plugins
- - rtyley/bfg-repo-cleaner
- - mhagger/git-imerge
- - eddiezane/lunchy
-display_name: Software productivity tools
-created_by: holman
----
-
-**Collections**
-- [Design essentials](https://github.com/collections/design-essentials)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+| **Topics** |   |  
+| ------------- | ---  |
+| **Languages** | [C#](./docs/csharp) - [NodeJS](./docs/NodeJs) - [javascript (front-end)](./docs/javascript) - [Go](./docs/golang) - [Powershell](./docs/Powershell) - [Python](./docs/Python) - [PHP](./docs/PHP) - [TypeScript](./docs/TypeScript) |   
+| **Databases** | [MySQL]() - [Neo4j]() - [MongoDB]() - [PostgreSQL]() - [CouchDB]() |  
 
 
 
 
-**Platforms**
 
+## Awesome lists
 
-
-## Other Awesome-Lists
-
-About this section. Optional. Keep this short and focus on the list.
 |     |     |   
 | --- | --- |   
 | [awesome](https://github.com/sindresorhus/awesome) |  All kinds of interesting topics |   
@@ -66,25 +23,18 @@ About this section. Optional. Keep this short and focus on the list.
 | [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) | A list of awesome applications, software, tools and other materials for Linux distros.    |   
 
 
-
-## Languages
-### Python
-
-
-## Other nice Lists
-
+## Other Lists
 |     |     | 
 | --- | --- |  
 | [toddmotto/public-apis](https://github.com/toddmotto/public-apis) | A collective list of free APIs for use in software and web development. |
 | [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) |     |
 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Freely available programming books |
 
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Contents
+| **Topics** |   |  
+| ------------- | ---  |
+| **Collections** | |
+| **Collections** (Github) | [Design essentials](https://github.com/collections/design-essentials) - [DevOps tools](https://github.com/collections/devops-tools) - [front-end-javascript-frameworks](https://github.com/collections/front-end-javascript-frameworks) - [open-source-organizations](https://github.com/collections/open-source-organizations) - [productivity-tools](https://github.com/collections/productivity-tools) - [programming-languages](https://github.com/collections/programming-languages) - [software-development-tools](https://github.com/collections/software-development-tools) - [tools-for-open-source](https://github.com/collections/tools-for-open-source) |
 
 
 ## Contribute
