@@ -2,23 +2,74 @@
 
 A curated list of awesome stuffs
 
-## Contents
+## Index
 
-- [Awesome-Lists](#Awesome-Lists)
+- [Awesome-Lists](#Other-Awesome-Lists)
 - [Another Section](#another-section)
 
-## Awesome-Lists
+## Contents
+**Languages**
+- [C#](#Python)
+- [Js](#Python)
+- [NodeJs](#Python)
+- [Go](#Python)
+- [Powershell](#Python)
+- [CSS / Less / Sass](#Python)
+- [Python](#Python)
+- [PHP](#Python)
+- [TypeScript](#Python)
+- [Python](#Python)
+
+---
+items:
+ - robbyrussell/oh-my-zsh
+ - ggreer/the_silver_searcher
+ - arc90/git-sweep
+ - bhollis/jsonview
+ - ShareX/ShareX
+ - sindresorhus/quick-look-plugins
+ - rtyley/bfg-repo-cleaner
+ - mhagger/git-imerge
+ - eddiezane/lunchy
+display_name: Software productivity tools
+created_by: holman
+---
+
+**Collections**
+- [Design essentials](https://github.com/collections/design-essentials)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+
+
+
+**Platforms**
+
+
+
+## Other Awesome-Lists
 
 About this section. Optional. Keep this short and focus on the list.
-|     |     | 
-| --- | --- |  
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) |  All kinds of interesting topics |
-| [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | A curated list of awesome awesomeness    |
-| [APIs-guru/awesome-openapi3](https://github.com/APIs-guru/awesome-openapi3) | Projects related to OpenAPI 3.0.x |
-| [Kickball/awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) | Software network services and web applications which can be hosted locally. |
-| [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) |     |
-| [likedan/Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) |     |
-| [luong-komorebi/Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) | A list of awesome applications, software, tools and other materials for Linux distros.    |
+|     |     |   
+| --- | --- |   
+| [awesome](https://github.com/sindresorhus/awesome) |  All kinds of interesting topics |   
+| [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) | A curated list of awesome awesomeness    |   
+| [awesome-openapi3](https://github.com/APIs-guru/awesome-openapi3) | Projects related to OpenAPI 3.0.x |   
+| [awesome-selfhosted](https://github.com/Kickball/awesome-selfhosted) | Software network services and web applications which can be hosted locally. |   
+| [awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns) |     |   
+| [Awesome-CoreML-Models](https://github.com/likedan/Awesome-CoreML-Models) |     |   
+| [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) | A list of awesome applications, software, tools and other materials for Linux distros.    |   
+
+
+
+## Languages
+### Python
+
 
 ## Other nice Lists
 
