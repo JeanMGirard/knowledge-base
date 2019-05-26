@@ -1,16 +1,26 @@
-# Awesome
+# knowledge-base
 
 
-| **Topics** |   |  
-| ------------- | ---  |
-| **Languages** | [C#](./docs/csharp) - [NodeJS](./docs/NodeJs) - [javascript (front-end)](./docs/javascript) - [Go](./docs/golang) - [Powershell](./docs/Powershell) - [Python](./docs/Python) - [PHP](./docs/PHP) - [TypeScript](./docs/TypeScript) |   
-| **Databases** | [MySQL]() - [Neo4j]() - [MongoDB]() - [PostgreSQL]() - [CouchDB]() |  
+#### To Do
+[List of software development philosophies](https://en.wikipedia.org/wiki/List_of_software_development_philosophies)  
+[Architectural Patterns](https://en.wikipedia.org/wiki/Architectural_pattern)
 
 
+## Best practices
+
+## Collections
+
+| **Topic** |   |  
+| ---------------------- | ---  |
+| **Languages**          | [C#](./docs/csharp) - [NodeJS](./docs/NodeJs) - [javascript (front-end)](./docs/javascript) - [Go](./docs/golang) - [Powershell](./docs/Powershell) - [Python](./docs/Python) - [PHP](./docs/PHP) - [TypeScript](./docs/TypeScript) |   
+| **Databases**          | [MySQL]() - [Neo4j]() - [MongoDB]() - [PostgreSQL]() - [CouchDB]() |  
+| **Patterns** (Design) | [Creational](./docs/patterns/design-patterns) - [Structural](./docs/patterns/design-patterns) - [Behavioral](./docs/patterns/design-patterns) - [Refactoring](./docs/patterns/refactoring) - [Concurrency](https://en.wikipedia.org/wiki/Software_design_pattern) |   
+| **Patterns** (Architectural) |  |   
 
 
+## Resources
 
-## Awesome lists
+#### Awesome lists
 
 |     |     |   
 | --- | --- |   
