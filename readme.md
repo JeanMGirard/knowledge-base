@@ -1,13 +1,5 @@
 # knowledge-base
 
-
-#### To Do
-[List of software development philosophies](https://en.wikipedia.org/wiki/List_of_software_development_philosophies)  
-[Architectural Patterns](https://en.wikipedia.org/wiki/Architectural_pattern)
-
-
-## Best practices
-
 ## Collections
 
 | **Topic** |   |  
@@ -17,8 +9,12 @@
 | **Patterns** (Design) | [Creational](./docs/patterns/design-patterns) - [Structural](./docs/patterns/design-patterns) - [Behavioral](./docs/patterns/design-patterns) - [Refactoring](./docs/patterns/refactoring) - [Concurrency](https://en.wikipedia.org/wiki/Software_design_pattern) |   
 | **Patterns** (Architectural) |  |   
 
+## Best practices
 
-## Resources
+## Guides
+
+
+## External resources
 
 #### Awesome lists
 
@@ -33,19 +29,23 @@
 | [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) | A list of awesome applications, software, tools and other materials for Linux distros.    |   
 
 
-## Other Lists
+### Other Lists
 |     |     | 
 | --- | --- |  
 | [toddmotto/public-apis](https://github.com/toddmotto/public-apis) | A collective list of free APIs for use in software and web development. |
 | [n0shake/Public-APIs](https://github.com/n0shake/Public-APIs) |     |
 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | Freely available programming books |
 
-## Contents
+### Contents
 | **Topics** |   |  
 | ------------- | ---  |
 | **Collections** | |
 | **Collections** (Github) | [Design essentials](https://github.com/collections/design-essentials) - [DevOps tools](https://github.com/collections/devops-tools) - [front-end-javascript-frameworks](https://github.com/collections/front-end-javascript-frameworks) - [open-source-organizations](https://github.com/collections/open-source-organizations) - [productivity-tools](https://github.com/collections/productivity-tools) - [programming-languages](https://github.com/collections/programming-languages) - [software-development-tools](https://github.com/collections/software-development-tools) - [tools-for-open-source](https://github.com/collections/tools-for-open-source) |
 
+## RoadMap
+
+[List of software development philosophies](https://en.wikipedia.org/wiki/List_of_software_development_philosophies)  
+[Architectural Patterns](https://en.wikipedia.org/wiki/Architectural_pattern)
 
 ## Contribute
 
