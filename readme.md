@@ -12,7 +12,7 @@
 
 | **Topic** |   |  
 | ---------------------- | ---  |
-| **Languages**          | [C#](./docs/csharp) - [NodeJS](./docs/NodeJs) - [javascript (front-end)](./docs/javascript) - [Go](./docs/golang) - [Powershell](./docs/Powershell) - [Python](./docs/Python) - [PHP](./docs/PHP) - [TypeScript](./docs/TypeScript) |   
+| **Languages**          | [C#](./docs/languages/general#csharp) - [NodeJS](./docs/languages/general#NodeJs) - [javascript (front-end)](./docs/languages/general#javascript) - [Go](./docs/languages/general#golang) - [Powershell](./docs/languages/general#Powershell) - [Python](./docs/languages/general#Python) - [PHP](./docs/languages/general#PHP) - [TypeScript](./docs/languages/general#TypeScript) |   
 | **Databases**          | [MySQL]() - [Neo4j]() - [MongoDB]() - [PostgreSQL]() - [CouchDB]() |  
 | **Patterns** (Design) | [Creational](./docs/patterns/design-patterns) - [Structural](./docs/patterns/design-patterns) - [Behavioral](./docs/patterns/design-patterns) - [Refactoring](./docs/patterns/refactoring) - [Concurrency](https://en.wikipedia.org/wiki/Software_design_pattern) |   
 | **Patterns** (Architectural) |  |   
