@@ -11,8 +11,10 @@
 
 ## Best practices
 
-## Guides
-
+## Guides & Recommendations
+|     |     |
+| --- | ----|
+| [git](./docs/guides/git) | setup, tools, flows, etc... |
 
 ## External resources
 
