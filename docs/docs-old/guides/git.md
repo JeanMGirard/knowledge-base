@@ -7,6 +7,7 @@
 
 exemple (run once)
 ```sh
+git config --global user.username "JohnDoe"
 git config --global user.name "John Doe"
 git config --global user.email "JohnDoe@gmail.com"
 git config --global core.editor nano
