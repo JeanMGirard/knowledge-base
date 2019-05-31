@@ -1,4 +1,7 @@
 {
+  "watch": {
+    "start": ["../*.js", "../*.md"]
+  },
   "scripts": {
     "examples": "docusaurus-examples",
     "start": "docusaurus-start",
@@ -9,6 +12,7 @@
     "rename-version": "docusaurus-rename-version"
   },
   "devDependencies": {
-    "docusaurus": "^1.10.0"
+    "docusaurus": "^1.10.0",
+    "npm-watch": "^0.6.0"
   }
 }

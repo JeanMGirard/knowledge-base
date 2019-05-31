@@ -1,10 +1,22 @@
 {
-  "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+  "home": {
+    "Home": ["home", "home-news"]
   },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+  "guides": {
+    "Guides": ["guides", "guides-git"]
+  },
+  "tools": {
+    "Tools": ["tools", "tools-apps", "tools-apis"],
+    "Cheatsheets": [
+      "tools-cheatsheets",
+      "tools-cheatsheets-angular"
+    ],
+    "Dotfiles": ["tools-dotfiles"]
+  },
+  "research": {
+    "research": ["research", "research-patterns"]
+  },
+  "lib": {
+    "Librairies": ["lib", "lib-prospects", "lib-stores"]
   }
 }
