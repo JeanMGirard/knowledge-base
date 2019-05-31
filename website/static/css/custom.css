@@ -1,4 +1,12 @@
 /* your custom css */
+.navigationSlider .slidingNav ul li.siteNavGroupActive > a,
+.navigationSlider .slidingNav ul,
+.fixedHeaderContainer{
+    background: rgb(29, 117, 175);
+}
+.navigationSlider .slidingNav ul li > a:focus, .navigationSlider .slidingNav ul li > a:hover, .navigationSlider .slidingNav ul li.siteNavItemActive > a, .navigationSlider .slidingNav ul li.siteNavGroupActive > a{
+    background: rgb(6, 68, 109);
+}
 
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }

@@ -16,3 +16,6 @@ services:
       - ./website/sidebars.json:/app/website/sidebars.json
       - ./website/siteConfig.js:/app/website/siteConfig.js
     working_dir: /app/website
+    deploy:
+      restart_policy:
+        condition: on-failure
