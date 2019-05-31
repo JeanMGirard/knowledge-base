@@ -14,6 +14,8 @@ sidebar_label: Git
 **Must Read:** https://www.atlassian.com/git/tutorials/comparing-workflows
 - git-flow: [cheatsheet](http://danielkummer.github.io/git-flow-cheatsheet/)
 
+### Worktrees
+
 ------------------------------------
 
 ## References
